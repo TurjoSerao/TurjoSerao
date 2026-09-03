@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" width="100%" />
+  <img src="./styles/Turjo_Serao_Github_banner.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Turjo Serao</h1>
@@ -78,9 +78,9 @@ Movie Picker is a React-based movie discovery application powered by the TMDB AP
 [🔗 Live Demo](https://turjoserao.github.io/movie-picker/) • [📂 Repository](https://github.com/TurjoSerao/movie-picker)
 
 
-### 🌍 Tourism Website
+### The Liberation War
 
-The Liberation War Archive is a single-page website designed to showcase historical documents, interviews, photographs, and stories from Bangladesh's Liberation War. The project aims to provide an engaging and accessible platform for learning about one of the most significant events in Bangladesh's history.
+The Liberation War Archive is a single-page website that showcases historical documents, interviews, photographs, and stories from Bangladesh's Liberation War. The project aims to provide an engaging and accessible platform for learning about one of the most significant events in Bangladesh's history.
 
 
 
@@ -123,22 +123,4 @@ The Liberation War Archive is a single-page website designed to showcase histori
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TurjoSerao&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
-# 🔝 Top Contributed Repository
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=TurjoSerao&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TurjoSerao&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>

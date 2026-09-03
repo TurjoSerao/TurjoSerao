@@ -67,24 +67,26 @@ build a strong presence on the web.
 ---
 # 🚀 Featured Projects
 
-### 🛒 MERN E-Commerce
+### Movie Picker
 
-A full-stack e-commerce application built with React,
-Node.js, Express, and MongoDB.
+Movie Picker is a React-based movie discovery application powered by the TMDB API. Users can browse popular movies, search for titles instantly, and explore movie details through a clean, responsive interface.
 
-**Tech:** React • Node.js • Express • MongoDB
 
-[🔗 Live Demo](YOUR_LINK) • [📂 Repository](YOUR_LINK)
+
+**Tech:** React • Node.js • Express • MongoDB • API
+
+[🔗 Live Demo](https://turjoserao.github.io/movie-picker/) • [📂 Repository](https://github.com/TurjoSerao/movie-picker)
 
 
 ### 🌍 Tourism Website
 
-A responsive tourism website focused on modern UI,
-responsive design, and an engaging user experience.
+The Liberation War Archive is a single-page website designed to showcase historical documents, interviews, photographs, and stories from Bangladesh's Liberation War. The project aims to provide an engaging and accessible platform for learning about one of the most significant events in Bangladesh's history.
+
+
 
 **Tech:** React • Tailwind CSS • JavaScript
 
-[🔗 Live Demo](YOUR_LINK) • [📂 Repository](YOUR_LINK)
+[🔗 Live Demo](https://turjoserao.github.io/1971-liberation-war-archive/) • [📂 Repository](https://github.com/TurjoSerao/1971-liberation-war-archive)
 
 # 🌐 Connect With Me
 
